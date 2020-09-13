@@ -1,5 +1,5 @@
 .*
 !.gitignore
-./vendors.min.js
-./vendors.js
-./app.min.js
+js/vendors.min.js
+js/vendors.js
+js/app.min.js
